@@ -1,0 +1,21 @@
+{
+  "name": "imooc",
+  "homepage": "https://github.com/lujinming1/imooc",
+  "authors": [
+    "lujinming1 <lujinming163@163.com>"
+  ],
+  "description": "imooc movie",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
